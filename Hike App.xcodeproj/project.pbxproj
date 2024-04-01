@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3C50610A2BA3429000E3C747 /* CustomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C5061092BA3429000E3C747 /* CustomButtonView.swift */; };
 		3C50610C2BA3470F00E3C747 /* GradientButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C50610B2BA3470F00E3C747 /* GradientButtonStyle.swift */; };
+		3C5FE4B12BBB4B9100FDDF02 /* CustomListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C5FE4B02BBB4B9100FDDF02 /* CustomListRowView.swift */; };
 		3C9321972BBAF201008F0120 /* CustomCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9321962BBAF201008F0120 /* CustomCircleView.swift */; };
 		3C9321992BBAF336008F0120 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9321982BBAF336008F0120 /* MotionAnimationView.swift */; };
 		3C93219C2BBAF8F8008F0120 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C93219B2BBAF8F8008F0120 /* SettingsView.swift */; };
@@ -24,6 +25,7 @@
 /* Begin PBXFileReference section */
 		3C5061092BA3429000E3C747 /* CustomButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonView.swift; sourceTree = "<group>"; };
 		3C50610B2BA3470F00E3C747 /* GradientButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientButtonStyle.swift; sourceTree = "<group>"; };
+		3C5FE4B02BBB4B9100FDDF02 /* CustomListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomListRowView.swift; sourceTree = "<group>"; };
 		3C9321962BBAF201008F0120 /* CustomCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCircleView.swift; sourceTree = "<group>"; };
 		3C9321982BBAF336008F0120 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		3C93219B2BBAF8F8008F0120 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				3CDD71AA2BA1E42D00A1E848 /* CustomBackgroundView.swift */,
 				3C5061092BA3429000E3C747 /* CustomButtonView.swift */,
 				3C9321962BBAF201008F0120 /* CustomCircleView.swift */,
+				3C5FE4B02BBB4B9100FDDF02 /* CustomListRowView.swift */,
 				3C9321982BBAF336008F0120 /* MotionAnimationView.swift */,
 			);
 			path = Component;
@@ -187,6 +190,7 @@
 			files = (
 				3CDD719A2BA1DFE300A1E848 /* ContentView.swift in Sources */,
 				3C9321972BBAF201008F0120 /* CustomCircleView.swift in Sources */,
+				3C5FE4B12BBB4B9100FDDF02 /* CustomListRowView.swift in Sources */,
 				3CDD71A92BA1E40900A1E848 /* CardView.swift in Sources */,
 				3CDD71982BA1DFE300A1E848 /* HikeApp.swift in Sources */,
 				3C50610A2BA3429000E3C747 /* CustomButtonView.swift in Sources */,
