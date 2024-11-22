@@ -1,6 +1,30 @@
-<img src="https://github.com/joellacerda/Hike-App/assets/98550669/f2cf29b3-855e-4ca7-abbd-f8807426d0eb" width="200"> <img src="https://github.com/joellacerda/Hike-App/assets/98550669/c59dcb02-1c5b-435c-8417-cc2cd3610aa3" width="200"> <img src="https://github.com/joellacerda/Hike-App/assets/98550669/0242c2fd-a1c6-4785-a212-588f82148cb2" width="200"> <img src="https://github.com/joellacerda/Hike-App/assets/98550669/5868e2ba-6485-4214-bc45-0bb86c676985" width="200"> <img src="https://github.com/joellacerda/Hike-App/assets/98550669/5c38df44-89d2-4700-9fd2-5db9bc5da3c4" width="200"> <img src="https://github.com/joellacerda/Hike-App/assets/98550669/af609117-8f38-4326-bbd4-85c37143c328" width="200">
+# Hike App 🥾  
+A beautifully animated app designed to provide a delightful experience for hiking enthusiasts. Created with SwiftUI, this project combines rich visuals, smooth animations, and practical information, making it a perfect showcase of SwiftUI’s dynamic capabilities.  
+
+## 📖 About the Project  
+The **Hike App** offers an engaging way to explore details about hiking trails while demonstrating the potential of SwiftUI for crafting immersive and animated user interfaces.  
+This project is part of the Credo Academy course and focuses on using animations and transitions to bring the UI to life.  
+
+## 🛠️ Key Features  
+- **Trail Details**: Displays information about hiking trails, including distance, elevation, and difficulty.  
+- **Interactive Animations**: Smooth transitions and interactive views to enhance user engagement.  
+- **Dynamic User Interface**: A visually captivating UI built entirely with SwiftUI.  
+
+## 🚀 Technologies Used  
+- Swift  
+- SwiftUI  
+- Animations and Transitions (with `Animation` and `withAnimation`)
+
+## 💡 Key Learnings  
+Developing the **Hike App** demonstrates:  
+- How to create seamless animations in SwiftUI.  
+- Using `GeometryReader` and `Animation` to build interactive views.  
+- Crafting an intuitive and visually rich user experience with minimal code. 
+
+## 📸 Screenshots  
+<img width="333" alt="image" src="https://github.com/user-attachments/assets/7d1ff346-f61e-467c-a877-3e11a6b33752">
+<img width="333" alt="image" src="https://github.com/user-attachments/assets/374df2fb-8d4d-4edd-8e08-71a28fa32b13">
 
 
-
- 
-
+## 🏆 Credits  
+This project was developed as part of the [Credo Academy](https://credo.academy) course on SwiftUI.  
